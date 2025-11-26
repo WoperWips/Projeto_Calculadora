@@ -18,7 +18,7 @@ package calculadora;
  * sem efeitos colaterais, permitindo maior legibilidade e facilitando testes unitários.</p>
  *
  * @author Herick Marlon da Silva Garcia
- * @version 1.1
+ * @version 1.0
  */
 
 public class Calculadora {
