@@ -1,4 +1,4 @@
-# 🧮 Projeto Calculadora
+# Projeto Calculadora
 
 Este projeto implementa uma calculadora simples em Java, com operações matemáticas básicas e tratamento de erros. Ele foi desenvolvido para fins de aprendizado, aplicando boas práticas de programação, refatoração e documentação.
 
@@ -29,8 +29,17 @@ Este projeto implementa uma calculadora simples em Java, com operações matemá
 
 ---
 ### 6. Comparações de Resultados
+
 Antes <img width="492" height="205" alt="image" src="https://github.com/user-attachments/assets/fae5b668-68ef-4f2b-be16-8cc0b016f2af" />
+
+
+
+
+
+
+
+
+
 Depois <img width="451" height="147" alt="image" src="https://github.com/user-attachments/assets/383e72af-2027-44f5-bf82-bf9194c64529" />
 
-## 📂 Estrutura do Projeto
 
